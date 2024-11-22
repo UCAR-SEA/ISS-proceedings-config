@@ -1,0 +1,26 @@
+version: 1
+project:
+  open_access: true
+  license:
+    content: CC-BY-4.0
+    code: Apache-2.0
+  references:
+  jupyter:
+    binder:
+      url: https://mybinder.org
+    
+site:
+  template: article-theme
+  options:
+    logo:
+    logo_dark: 
+  nav:
+    - title: SEA Home
+      url: https://sea.ucar.edu
+    - title: SEA Conference
+      url: https://sea.ucar.edu/conference/2024
+    - name: Contact Us
+      url: https://www2.cisl.ucar.edu/form/contact
+  actions:
+    - title: SEA
+      url: https://sea.ucar.edu
