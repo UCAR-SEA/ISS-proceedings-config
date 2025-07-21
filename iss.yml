@@ -13,10 +13,9 @@ project:
 site:
   template: article-theme
   options:
-    favicon: 
-    logo:
-    logo_dark: 
-    logo_url:
+    favicon: assets/sea_logo.jpg
+    logo: assets/iss2025_logo.png
+    logo_url: https://sea.ucar.edu/
   nav:
     - title: SEA Home
       url: https://sea.ucar.edu
