@@ -1,4 +1,5 @@
 version: 1
+
 project:
   open_access: true
   license:
@@ -12,15 +13,15 @@ project:
 site:
   template: article-theme
   options:
+    favicon: 
     logo:
     logo_dark: 
+    logo_url:
   nav:
     - title: SEA Home
       url: https://sea.ucar.edu
-    - title: SEA Conference
-      url: https://sea.ucar.edu/conference/2024
-    - name: Contact Us
-      url: https://www2.cisl.ucar.edu/form/contact
+    - title: ISS Conference
+      url: https://sea.ucar.edu/iss/
   actions:
     - title: SEA
       url: https://sea.ucar.edu
